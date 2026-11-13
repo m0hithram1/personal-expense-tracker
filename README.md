@@ -41,3 +41,11 @@ Expense-Tracker/
 The `expenses.db` database is created automatically and is excluded from Git to keep personal transaction data private.
 
 This is a local learning project. Do not enter sensitive banking information.
+
+## Author
+
+Mohith Ram Pilla
+
+## GitHub
+
+https://github.com/m0hithram1
